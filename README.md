@@ -1,8 +1,8 @@
-# Windows 11 IT Maintenance script 1.0.bat
+# Windows 11 IT Maintenance script v1.0.bat
 
 ## Overview
 
-**Windows 11 IT Maintenance script 1.0.bat** is a Windows batch script that provides a menu-driven interface for common IT maintenance tasks on Windows 11. It is designed to:
+**Windows 11 IT Maintenance script v1.0.bat** is a Windows batch script that provides a menu-driven interface for common IT maintenance tasks on Windows 11. It is designed to:
 
 - **Run elevated** (self-relaunches with administrative rights if required).
 - Execute maintenance commands in grouped workflows (**Standard**, **Advanced**, **Recovery**).
