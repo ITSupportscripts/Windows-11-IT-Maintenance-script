@@ -224,9 +224,16 @@ Common modifications:
 
 ---
 
+## License
+
+Internal use / organizational use.
+No warranty is expressed or implied.
+
+---
+
 ## Disclaimer
 
-This script is provided “as-is” without warranty. Use at your own risk. Always test in a controlled environment before deploying broadly, especially the **Recovery maintenance** option.
+This script is provided “as-is” without warranty. Use at your own risk. Always test in a controlled environment before use.
 
 ---
 
