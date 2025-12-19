@@ -61,7 +61,7 @@
 
 ## Quick Start
 
-1. Save the script as a `.bat` file (for example: `Windows11_IT_Maintenance_Menu.bat`).
+1. Save the script as a `.bat` file (for example: `Windows 11 IT Maintenance script 1.0.bat`).
 2. Right-click the file and choose **Run as administrator**  
    - If you run it without admin rights, the script will self-elevate.
 3. Select an option from the menu:
