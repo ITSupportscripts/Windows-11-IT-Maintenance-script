@@ -224,8 +224,9 @@ Common modifications:
 
 ---
 
-License
-MIT License
+## License
+
+### MIT License
 
 Copyright (c) 2025 Max Timmers
 Contact email: maxtimmers@live.com
