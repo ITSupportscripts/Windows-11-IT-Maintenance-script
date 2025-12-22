@@ -3,7 +3,6 @@ setlocal EnableExtensions EnableDelayedExpansion
 title Windows Windows 11 IT Maintenance script v1.0.bat
 
 rem ============================================================
-rem  Windows 11 IT Maintenance script v1.0.bat
 rem  - Runs elevated (self-relaunches as admin if needed)
 rem  - Per-run logging with retries and summary
 rem ============================================================
@@ -266,4 +265,5 @@ echo %~1
 if defined LOGFILE (
     >>"%LOGFILE%" echo %~1
 )
+
 exit /b
