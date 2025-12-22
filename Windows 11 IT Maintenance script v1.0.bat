@@ -7,6 +7,9 @@ rem  - Runs elevated (self-relaunches as admin if needed)
 rem  - Per-run logging with retries and summary
 rem ============================================================
 
+set "SCRIPT_NAME=Windows Windows 11 IT Maintenance script v1.0.bat"
+set "SCRIPT_VERSION=1.0"
+
 rem --------------------------
 rem Admin privilege check
 rem --------------------------
@@ -267,3 +270,4 @@ if defined LOGFILE (
 )
 
 exit /b
+
