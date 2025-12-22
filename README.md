@@ -36,6 +36,18 @@
 
 ---
 
+## Script Information
+
+| Property          | Value                                           |
+| ----------------- | ----------------------------------------------- |
+| Script Name       | Windows 11 IT Maintenance script v1.0.bat       |
+| Version           | 1.0                                             |
+| Script Type       | Windows Batch Script                            |
+| Execution Context | Local user or elevated administrator            |
+| Logging           | Enabled (per execution)                         |
+
+---
+
 ## Requirements
 
 ### Supported OS
